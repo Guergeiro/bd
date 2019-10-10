@@ -15,7 +15,9 @@ To start your db server:
 - `docker start db`
 
 ## Access
-To access your db use `docker exec -it db bash`
+To access your db use `docker exec -it db bash`.
+
+Now that you're inside docker, use `psql db` to access the database. Play with postgres as you want.
 
 ## Copyright and License
 Copyright and License under [MIT License](https://github.com/Guergeiro/bd2/blob/master/LICENSE)
