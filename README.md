@@ -20,9 +20,12 @@ To start a new db server:
 - `docker start db`
 
 ## Access
+### Access via server
 To access your db use `docker exec -it {servername} bash`.
 
 Now that you're inside docker, use `psql {database}` to access the database. Play with postgres as you want.
+### Access via database manager
+Accessing your database via a manager should be straight forward. Just use the {url}:{port} of the database, put your database name and your username and password. If you are trying to access [Mabecos Server](https://github.com/Guergeiro/mabecos-server) database, ask [@Breno Salles](https://github.com/Guergeiro) for the database credentials.
 
 ## Copyright and License
 Copyright and License under [MIT License](https://github.com/Guergeiro/bd/blob/master/LICENSE)
