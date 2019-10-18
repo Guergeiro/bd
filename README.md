@@ -2,7 +2,7 @@
 This is a repository to be used for bd.
 
 ## Table of Contents
-- [Mabecos Server(#mabecos-server)
+- [Mabecos Server](#mabecos-server)
 - [How to start](#how-to-start)
 - [Access](#access)
 - [Copyright and License](#copyright-and-license)
