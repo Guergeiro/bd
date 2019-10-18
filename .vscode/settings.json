@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "breno",
+            "dialect": "PostgreSQL",
+            "isActive": false,
+            "isConnected": false,
+            "name": "Postgres",
+            "password": "root",
+            "port": 60003,
+            "server": "mabecos.ddns.net",
+            "username": "root"
+        }
+    ]
+}
